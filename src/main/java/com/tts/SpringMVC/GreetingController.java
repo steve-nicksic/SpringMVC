@@ -25,7 +25,7 @@ public class GreetingController {
     }
 
     public class Greeting {
-        
+
         private long id;
         private String content;
 
